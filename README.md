@@ -21,7 +21,7 @@ Based on the
 [Creative Bootstrap theme](http://startbootstrap.com/template-overviews/creative/)
 from [Start Bootstrap](http://startbootstrap.com/).
 
-View it here: [Harrybradrocco.github.io](https://Harrybrarocco.github.io/)
+View it here: [Harrybradrocco.github.io](https://Harrybradrocco.github.io/)
 
 Check out some of my other webpages at 
 [github.com/Harrybradrocco/](https://github.com/Harrybradrocco/)
