@@ -5,7 +5,6 @@ Harrybradrocco
 
 
 ```
-<form action="https://formspree.io/harrybradrocco@gmail.com" method="POST" class="form-horizontal" role="form">
 ```
 
 Built using:
