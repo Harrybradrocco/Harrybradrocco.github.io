@@ -2,6 +2,9 @@ Harrybradrocco
 ================================================================================
 
  :octocat:
+ Personal [Linkedin](https://www.linkedin.com/in/harrybradrocco/)
+ 
+ My Travel and [Photography](https://www.facebook.com/Harrybradroccophotography)
 
 
 ```
