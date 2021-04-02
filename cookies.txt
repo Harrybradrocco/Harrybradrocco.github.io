@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-zion-demo.squarespace.com	TRUE	/	FALSE	1999999999	crumb	BVlOf9g5l3VFZTczYjAyYTEzMmYxYThiODlkNTdlOTU5MTc5MjMz
-.squarespace.com	TRUE	/	FALSE	1999999999	SS_MID	ff99a4e3-7b01-4ed8-ab84-431d0f9ab5f3kmzkglil
-
